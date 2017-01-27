@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GooglePlace</string>
+    <string name="title_activity_maps">GooglePlace</string>
+    <string name="google_app_id">AIzaSyCZNKw1T596OlBhqlIyM4Gx-L3A59kloKc</string>
+</resources>
